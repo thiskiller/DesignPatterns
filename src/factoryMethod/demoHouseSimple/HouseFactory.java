@@ -7,7 +7,8 @@ import factoryMethod.demoHouseSimple.entity.WhiteHouse;
 /**
  * 房子工厂
  */
-public class HouseFactory extends RedHouse {
+
+public class HouseFactory {
     /**
      * 创建房子
      */
